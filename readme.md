@@ -67,7 +67,7 @@ php-mysql-crud-app/
 
 ---
 
-### Step 10: Test the PHP CRUD Application
+### Step 3: Test the PHP CRUD Application
 
 To test your CRUD application, enter the following URL on your browser after starting your local server and completing the above steps:
 
