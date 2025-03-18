@@ -45,8 +45,8 @@ CREATE TABLE `users` (
 <img
   alt="Creating the php_crud Database (MySQL)"
   src="db-creation.png"
-  width="900"
-  height="506"
+  width="1035"
+  height="530"
 />
 
 ---
